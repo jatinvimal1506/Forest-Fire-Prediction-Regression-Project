@@ -29,7 +29,7 @@ Open `http://127.0.0.1:5000` in your browser.
 
 - Linear Regression — baseline model
 - Lasso Regression — L1 regularization
-- Ridge Regression — L2 regularization ✅ best performance
+- Ridge Regression — L2 regularization 
 
 **Jatin Vimal**
 B.Tech Data Science & Engineering, IIT Palakkad
